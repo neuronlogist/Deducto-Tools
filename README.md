@@ -1,4 +1,4 @@
-# Deducto-Macro-Tool
+# Deducto Macro Tool
 This is a python tool/script made specifically for the purpose of speedrunning the game Deducto, however, it can be used elsewhere to manually edit your mouse and keyboard inputs to perform certain tasks.
 
 In `macrotool.py` I've provided a small macro, with comments, to hopefully make the process more intuitive.
@@ -11,3 +11,9 @@ In `macrotool.py` I've provided a small macro, with comments, to hopefully make 
 5. Edit the inputs
 6. Run the file
 7. Enjoy
+
+# Melon Loader Installation & How to import DeductoHelper.dll
+
+Follow the video [here](https://www.youtube.com/watch?v=VkHc8EAZMpY) to install MelonLoader and import the `DeductoHelper.dll` and `DeductoHelperD2.dll` to their respective games.
+
+**R** can be used to set your spawn point, **SHIFT+R** to reset your spawn point completely (important if you get stuck in the void) and ' to access the menu and set custom coordinates.
